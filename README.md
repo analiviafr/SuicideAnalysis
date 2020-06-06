@@ -1,6 +1,5 @@
-# SuicideAnalysis
-Análise exploratória sobre suicídio no Brasil
-
+# Suicide Analysis
+A base de dados utilizadas foi [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016), disponibilizada na plataforma Kaggle.
 ## Resultados
 
 <p align="center">
