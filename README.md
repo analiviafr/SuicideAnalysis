@@ -1,5 +1,5 @@
 # Suicide Analysis
-A base de dados utilizada foi a [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016), disponibilizada na plataforma Kaggle.
+Análise exploratória sobre suicídio realizada a partir da base de dados [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016), disponibilizada na plataforma Kaggle.
 ## Resultados
 ### Dashboard interativa
 Dashboard criada a partir do software Tableau, a mesma pode ser acessada em: https://bityli.com/AxkVf
