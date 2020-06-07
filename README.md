@@ -12,6 +12,7 @@ A dashboard também pode ser gerada a partir da execução do arquivo *SuicideRa
 
 ### Análise exploratória em Python
 O passo a passo da análise exploratória realizada e os códigos utilizados estão disponíveis no arquivo *SuicideAnalysis.ipynb*. Tal análise resultou nas plotagens apresentadas abaixo.
+
 #### Comparativo sobre a ocorrência de suicídios no Brasil e no Mundo
 <p align="center">
   <img src="/docs/Comparativo_BrasilxMundo.PNG" >
@@ -20,6 +21,11 @@ O passo a passo da análise exploratória realizada e os códigos utilizados est
 #### Comparativo sobre a ocorrência de suicídios entre homens e mulheres
 <p align="center">
   <img src="/docs/Comparativo_HomensxMulheres.PNG" >
+</p>
+
+#### Suicídios por faixa etária
+<p align="center">
+  <img src="/docs/Comparativo_Idades.PNG" >
 </p>
 
 #### Heatmap
