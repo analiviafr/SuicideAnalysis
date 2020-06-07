@@ -1,5 +1,6 @@
 # Suicide Analysis
-Análise exploratória sobre suicídio realizada a partir da base de dados [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016), disponibilizada na plataforma Kaggle.
+Análise exploratória sobre suicídio realizada a partir da base de dados [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016), disponibilizada na plataforma Kaggle. O conjunto de dados contém 27.820 registros e 12 colunas, sendo essas: country, year, sex, age, suicides_no, population, suicides/100kpop, country_year, HDI_for_year, gpd_for_year, gdp_per_capta.
+
 ## Resultados
 ### Dashboard interativa
 Dashboard criada a partir do software Tableau, a mesma pode ser acessada em: https://bityli.com/AxkVf
