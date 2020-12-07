@@ -32,3 +32,6 @@ O passo a passo da análise exploratória realizada e os códigos utilizados est
 <p align="center">
   <img src="/docs/heatmap.PNG" >
 </p>
+
+### Ana Lívia Franco
+<a target="_blank" href="https://www.linkedin.com/in/analiviafrhttps://img.shields.io/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> <a target="_blank" href="mailto:analiviafr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
